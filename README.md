@@ -13,10 +13,12 @@ It’s a great way to improve problem-solving skills, explore data manipulation 
 
 ## 📂 Repository Structure
 
-├── Day_01_ProblemName.ipynb \\
-├── Day_02_ProblemName.ipynb \\
-├── ... 
-└── README.md
+| Day | Problem | Solution |
+|-----|---------|----------|
+| 1   | Problem Name 1 | [Day_01_ProblemName.ipynb](Day_01_ProblemName.ipynb) |
+| 2   | Problem Name 2 | [Day_02_ProblemName.ipynb](Day_02_ProblemName.ipynb) |
+| 3   | Problem Name 3 | [Day_03_ProblemName.ipynb](Day_03_ProblemName.ipynb) |
+| ... | ... | ... |
 
 - **Day_X_ProblemName.ipynb** → Jupyter notebooks containing problem statements and my solutions.
 - Problems are organized by day for easy navigation.
