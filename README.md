@@ -15,10 +15,11 @@ It’s a great way to improve problem-solving skills, explore data manipulation 
 
 | Day | Problem | Solution |
 |-----|---------|----------|
-| 1   | Problem Name 1 | [Day_01_ProblemName.ipynb](Day_01_ProblemName.ipynb) |
-| 2   | Problem Name 2 | [Day_02_ProblemName.ipynb](Day_02_ProblemName.ipynb) |
-| 3   | Problem Name 3 | [Day_03_ProblemName.ipynb](Day_03_ProblemName.ipynb) |
-| ... | ... | ... |
+| 1   |WhatsApp | [Day1.ipynb](notebooks/Day1.ipynb) |
+| 2   |Amazon   | [Day2.ipynb](notebooks/Day2.ipynb) |
+| 3   |Disney   | [Day3.ipynb](notebooks/Day3.ipynb) |
+| 4   |Google   | [Day4.ipynb](notebooks/Day4.ipynb) |
+| 4   |Nintendo | [Day5.ipynb](notebooks/Day5.ipynb) |
 
 - **Day_X_ProblemName.ipynb** → Jupyter notebooks containing problem statements and my solutions.
 - Problems are organized by day for easy navigation.
