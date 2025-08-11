@@ -37,7 +37,7 @@ It’s a great way to improve problem-solving skills, explore data manipulation 
 ## 🚀 How to Use
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/repository-name.git
+   git clone https://github.com/AnamHJ24/datascience-python-challenges.git
 
 2. Open the desired notebook:
     jupyter notebook DayX.ipyn
