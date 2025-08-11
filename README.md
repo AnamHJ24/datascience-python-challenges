@@ -21,7 +21,7 @@ It’s a great way to improve problem-solving skills, explore data manipulation 
 | 4   |Google   | [Day4.ipynb](notebooks/Day4.ipynb) |
 | 4   |Nintendo | [Day5.ipynb](notebooks/Day5.ipynb) |
 
-- **Day_X_ProblemName.ipynb** → Jupyter notebooks containing problem statements and my solutions.
+- **DayX.ipynb** → Jupyter notebooks containing problem statements and my solutions.
 - Problems are organized by day for easy navigation.
 
 ---
@@ -40,6 +40,6 @@ It’s a great way to improve problem-solving skills, explore data manipulation 
    git clone https://github.com/yourusername/repository-name.git
 
 2. Open the desired notebook:
-    jupyter notebook Day_X_ProblemName.ipyn
+    jupyter notebook DayX.ipyn
 3. Run the cells to view solutions and outputs.
 
