@@ -21,6 +21,7 @@ It’s a great way to improve problem-solving skills, explore data manipulation 
 | 4   |Google   | [Day4.ipynb](notebooks/Day4.ipynb) |
 | 5   |Nintendo | [Day5.ipynb](notebooks/Day5.ipynb) |
 | 6   |Ben & Jerry's | [Day6.ipynb](notebooks/Day6.ipynb) |
+| 7   |Nike | [Day7.ipynb](notebooks/Day7.ipynb) |
 
 - **DayX.ipynb** → Jupyter notebooks containing problem statements and my solutions.
 - Problems are organized by day for easy navigation.
