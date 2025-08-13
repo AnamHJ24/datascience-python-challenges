@@ -26,6 +26,8 @@ It’s a great way to improve problem-solving skills, explore data manipulation 
 | 9   |Meta | [Day9.ipynb](notebooks/Day9.ipynb) |
 | 10   |Apple | [Day10.ipynb](notebooks/Day_10.ipynb) |
 | 11   |Stripe | [Day11.ipynb](notebooks/Day_11.ipynb) |
+| 12   |Walmart | [Day12.ipynb](notebooks/Day_12.ipynb) |
+| 13   |Shake Shack | [Day13.ipynb](notebooks/Day_13.ipynb) |
 - **DayX.ipynb** → Jupyter notebooks containing problem statements and my solutions.
 - Problems are organized by day for easy navigation.
 
