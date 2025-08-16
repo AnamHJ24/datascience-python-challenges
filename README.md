@@ -49,6 +49,6 @@ It’s a great way to improve problem-solving skills, explore data manipulation 
    git clone https://github.com/AnamHJ24/datascience-python-challenges.git
 
 2. Open the desired notebook:
-    jupyter notebook DayX.ipyn
+    jupyter notebook DayX.ipynb
 3. Run the cells to view solutions and outputs.
 
