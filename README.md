@@ -29,6 +29,7 @@ It’s a great way to improve problem-solving skills, explore data manipulation 
 | 12   |Walmart | [Day12.ipynb](notebooks/Day_12.ipynb) |
 | 13   |Shake Shack | [Day13.ipynb](notebooks/Day_13.ipynb) |
 | 14   |Starbucks | [Day14.ipynb](notebooks/Day_14.ipynb) |
+| 15   |Uber | [Day15.ipynb](notebooks/Day_15.ipynb) |
 - **DayX.ipynb** → Jupyter notebooks containing problem statements and my solutions.
 - Problems are organized by day for easy navigation.
 
